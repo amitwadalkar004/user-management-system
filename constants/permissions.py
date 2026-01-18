@@ -1,0 +1,5 @@
+VIEW_PROJECT = "view_project"
+UPDATE_PROJECT = "update_project"
+DELETE_PROJECT = "delete_project"
+ADD_USER = "add_user"
+REMOVE_USER = "remove_user"
