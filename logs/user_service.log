@@ -1,5 +1,0 @@
-2026-01-10 22:02:32,906 | INFO | user.service | <user.schema.User object at 0x000002878DC5F800>
-2026-01-16 22:37:38,477 | INFO | user.service | user fetched by id : <src.user.schema.User object at 0x000001F1A1588D70>
-2026-01-16 22:39:54,203 | INFO | user.service | user fetched by id: id=1, email=wadalkaramit84@gmail.com
-2026-01-16 22:46:04,964 | INFO | user.service | user fetched : wadalkaramit84@gmail.com
-2026-01-16 22:47:14,152 | INFO | user.service | user fetched : 1 ,wadalkaramit84@gmail.com
